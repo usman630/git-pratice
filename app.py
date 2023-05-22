@@ -1,1 +1,1 @@
-print("Praticing firsttiome Git hub")
+print("Praticing secondtiome Git hub")
